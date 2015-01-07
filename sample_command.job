@@ -1,0 +1,4 @@
+# sample command job
+type=command
+dependencies=sample_hive
+command=echo "hello azkaban"

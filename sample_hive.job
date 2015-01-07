@@ -1,0 +1,4 @@
+# sample hive job
+type=hive
+azk.hive.action=execute.query
+hive.query.file=sample.sql
